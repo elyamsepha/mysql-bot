@@ -2,7 +2,7 @@
 O bot possui comandos de cadastrar-se e mostrar os registros de cadastro de outras pessoas através de um métodos de reconhecimento
 
 ## comandos: 
-**sql.cadastrar** - como o prórprio nome sugere, o comando basicamente te cadastra no banco de dados( obs: se você ja estiver cadastrado, o bot envia uma mensagem lhe alertando sobre )
+**sql.cadastrar** - como o próprio nome sugere, o comando basicamente te cadastra no banco de dados( obs: se você ja estiver cadastrado, o bot envia uma mensagem lhe alertando sobre )
 
 **sql.mostrar metodo: valor_do_metodo** - este comando basicamente faz o bot enviar os registros de cadastro de alguem( exemplo: sql.mostrar id_discord: 323091845532 )
 
